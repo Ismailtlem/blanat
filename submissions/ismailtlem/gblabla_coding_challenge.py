@@ -56,6 +56,6 @@ def main(input_path, output_path):
 
 
 if __name__ == "__main__":
-    INPUT_FILE_PATH = "input1.txt"
+    INPUT_FILE_PATH = "input.txt"
     OUTPUT_FILE_PATH = "output.txt"
     main(INPUT_FILE_PATH, OUTPUT_FILE_PATH)
